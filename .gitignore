@@ -1,11 +1,13 @@
 *.iml
 .gradle
-/local.properties
 .idea
 .DS_Store
-/build
+build
 */build
-/captures
+captures
 .externalNativeBuild
 .cxx
 local.properties
+xcuserdata/
+Pods/
+/androidApp/key
